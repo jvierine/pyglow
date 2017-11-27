@@ -8,7 +8,7 @@ iri12 = {
     'folder' : 'iri12',
     'name' : 'iri12',
     #'url' : 'ftp://nssdcftp.gsfc.nasa.gov/models/ionospheric/iri/iri2012/00_iri2012.tar',
-    'url' : 'http://spdf.gsfc.nasa.gov/pub/models/iri/iri2012/00_iri2012.tar',
+    'url' : 'http://irimodel.org/IRI-2012/00_iri2012.tar',
     'filename' : '00_iri2012.tar',
     'tar' : True,
     'zip' : False,
